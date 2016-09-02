@@ -2,11 +2,11 @@
 
 Create a .deb package (suitable for xbuntu, Debian, Linux Mint).
 
-The package just depends on a number of important tools.
+The package just depends on a number of important tools (as an example).
 
 ## Package building
 
-To build the package you need to have [FPM](https://github.com/jordansissel/fpm) in the path.
+To build the package you need to have [FPM](https://github.com/jordansissel/fpm) in the path and call `create.sh`.
 
 ## License
 

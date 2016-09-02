@@ -8,13 +8,10 @@ fpm -s empty\
     -t deb\
     -v `cat VERSION`\
     -a all\
-    --name "7linden-essential-tools-meta"\
-    --description "Programs, libraries and tools to have a nice administrative environment in ecovillage 7 Linden"\
+    --name "TODO: 7linden-package-template"\
+    --description "TODO: What this package does"\
     --depends vim\
     --depends w3m\
-    --depends htop\
-    --depends tree\
-    --depends curl\
     --license "GPLv3+"\
     --maintainer "felix.wolfsteller@gmail.com"
 
