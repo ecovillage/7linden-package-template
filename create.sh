@@ -8,10 +8,10 @@ fpm -s empty\
     -t deb\
     -v `cat VERSION`\
     -a all\
-    --name "TODO: 7linden-package-template"\
+    --name        "TODO: 7linden-package-template"\
     --description "TODO: What this package does"\
-    --depends vim\
-    --depends w3m\
-    --license "GPLv3+"\
-    --maintainer "felix.wolfsteller@gmail.com"
-
+    --depends     vim\
+    --depends     w3m\
+    --license     "GPLv3+"\
+    --maintainer  "felix.wolfsteller@gmail.com"\
+    --url         "https://github.com/ecovillage/7linden-package-template"

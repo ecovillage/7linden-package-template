@@ -1,6 +1,6 @@
 # 7linden....
 
-Create a .deb package (suitable for xbuntu, Debian, Linux Mint).
+Create a .deb package (suitable installation canditates for xbuntu, Debian, Linux Mint linux distributions).
 
 The package just depends on a number of important tools (as an example).
 
